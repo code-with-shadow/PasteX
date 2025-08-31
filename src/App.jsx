@@ -3,7 +3,7 @@ import './App.css';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Navber from './components/Navber';
 import Home from './components/Home';
-import Paste from './components/paste';
+import Paste from './components/Paste';
 import Viewpaste from './components/Viewpaste';
 
 const router = createBrowserRouter(
